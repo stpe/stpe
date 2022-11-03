@@ -2,9 +2,14 @@
 
 ![](https://github.com/stpe/stpe/blob/main/rasterbars.jpg)
 
-- 🔭 I’m currently working at [Willa](https://willa.com)
+- 🔭 I’m working at [Willa](https://willa.com)
+- 📫 Find me at [stpe.se](https://stpe.se)
 - 🎓 Master of Science in Computer Engineering at [KTH Royal Institute of Technology](https://www.kth.se/en)
 
+<details>
+  <summary>I like programming, creating stuff, and building products & companies.</summary>
+  <br>
+</details>
 
 <!--
 **stpe/stpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
