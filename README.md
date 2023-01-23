@@ -9,7 +9,7 @@
 - 🎓 Master of Science in Computer Engineering at [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 <details>
-  <summary>I like programming, creating stuff, and building products & companies.</summary>
+  <summary>I like programming, creating stuff, and to build digital products & companies.</summary>
   <br>
 </details>
 
