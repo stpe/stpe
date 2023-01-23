@@ -2,8 +2,10 @@
 
 ![](https://github.com/stpe/stpe/blob/main/rasterbars.jpg)
 
-- 🔭 I’m working at [Willa](https://willa.com)
-- 📫 Find me at [stpe.se](https://stpe.se)
+- 🔭 I’m currently working on [Willa](https://willa.com)
+- 📫 Reach me at [stefpet@gmail.com](stefpet@gmail.com)
+- 🌍 Find me at [stpe.se](https://stpe.se)
+- 📜 See what I did previously on [LinkedIn](https://se.linkedin.com/in/stefpet/)
 - 🎓 Master of Science in Computer Engineering at [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 <details>
