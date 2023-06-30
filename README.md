@@ -2,7 +2,6 @@
 
 ![](https://github.com/stpe/stpe/blob/main/rasterbars.jpg)
 
-- 🔭 I’m currently working on [Willa](https://willa.com)
 - 📫 Reach me at [stefpet@gmail.com](stefpet@gmail.com)
 - 🌍 Find me at [stpe.se](https://stpe.se)
 - 📜 See what I did previously on [LinkedIn](https://se.linkedin.com/in/stefpet/)
