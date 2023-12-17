@@ -2,7 +2,7 @@
 
 ![](https://github.com/stpe/stpe/blob/main/rasterbars.jpg)
 
-- 📫 [stefpet@gmail.com](stefpet@gmail.com)
+- 📫 [stefpet@gmail.com](mailto:stefpet@gmail.com)
 - 🌍 [stpe.se](https://stpe.se)
 - 🏢 [codetouch.com](https://codetouch.com)
 - 📜 [LinkedIn](https://se.linkedin.com/in/stefpet/)
