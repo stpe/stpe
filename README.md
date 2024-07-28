@@ -9,6 +9,8 @@
 - 🎓 MSc Computer Engineering @ [KTH Royal Institute of Technology](https://www.kth.se/en)
 
 <details>
-  <summary>I like programming, creating stuff, and to build digital products & companies. Also tend to dabble with founder and C-level stuff, and some board work/advisory.</summary>
-  <br>
+  <summary>I like...</summary>
+<br>
+        ...programming, creating stuff, and to build digital products & companies. Also tend to dabble with founder and C-level stuff, and some board work/advisory.
+
 </details>
